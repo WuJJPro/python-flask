@@ -1,12 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="66ac0822-a609-440f-9318-4272d88fe665" name="变更" comment="首次提交">
-      <change afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources/205511b1-89a9-4f11-a39f-460f12440772.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/205511b1-89a9-4f11-a39f-460f12440772.xml" afterDir="false" />
+    <list default="true" id="66ac0822-a609-440f-9318-4272d88fe665" name="变更" comment="提交部署说明">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/manage.py" beforeDir="false" afterPath="$PROJECT_DIR$/manage.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config.py" beforeDir="false" afterPath="$PROJECT_DIR$/config.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -60,7 +57,7 @@
       <updated>1662217462224</updated>
       <workItem from="1662217463534" duration="122000" />
       <workItem from="1662262265087" duration="329000" />
-      <workItem from="1662267020165" duration="765000" />
+      <workItem from="1662267020165" duration="1202000" />
     </task>
     <task id="LOCAL-00001" summary="首次提交">
       <created>1662217552835</created>
@@ -69,7 +66,14 @@
       <option name="project" value="LOCAL" />
       <updated>1662217552835</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="提交部署说明">
+      <created>1662267817029</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1662267817029</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -88,6 +92,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="首次提交" />
-    <option name="LAST_COMMIT_MESSAGE" value="首次提交" />
+    <MESSAGE value="提交部署说明" />
+    <option name="LAST_COMMIT_MESSAGE" value="提交部署说明" />
   </component>
 </project>

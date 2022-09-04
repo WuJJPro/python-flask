@@ -1,6 +1,6 @@
 class Config(object):
     # SECRET_KEY = os.environ.get('SECRET_KEY') or 'you-will-never-guess'
-    SQLALCHEMY_DATABASE_URI = 'mysql://root:password@101.42.135.145:3306/twt'
+    SQLALCHEMY_DATABASE_URI = ''
     SQLALCHEMY_TRACK_MODIFICATIONS = False
     # 邮件配置
     # ADMINS = ['wangy8961@163.com']  # 管理员的邮箱地址
